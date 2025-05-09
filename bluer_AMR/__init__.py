@@ -4,7 +4,7 @@ ICON = "🔬"
 
 DESCRIPTION = f"{ICON} meta-analysis of clinical outcomes of antibiotics for cholera treatment and percentage of antibiotic resistance."
 
-VERSION = "5.2.1"
+VERSION = "5.3.1"
 
 REPO_NAME = "bluer-AMR"
 
