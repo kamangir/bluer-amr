@@ -1,3 +1,3 @@
 #! /usr/bin/env bash
 
-alias @AMR=bluer_amr
+alias @amr=bluer_amr

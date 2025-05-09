@@ -5,17 +5,17 @@ function test_bluer_amr_help() {
 
     local module
     for module in \
-        "@AMR" \
+        "@amr" \
         \
-        "@AMR pypi" \
-        "@AMR pypi browse" \
-        "@AMR pypi build" \
-        "@AMR pypi install" \
+        "@amr pypi" \
+        "@amr pypi browse" \
+        "@amr pypi build" \
+        "@amr pypi install" \
         \
-        "@AMR pytest" \
+        "@amr pytest" \
         \
-        "@AMR test" \
-        "@AMR test list" \
+        "@amr test" \
+        "@amr test list" \
         \
         "bluer_amr"; do
         bluer_ai_eval ,$options \
