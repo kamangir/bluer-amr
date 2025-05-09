@@ -1,4 +1,4 @@
-# 🌀 bluer-AMR
+# 🌀 bluer-amr
 
 Meta-analysis of clinical outcomes of antibiotics for cholera treatment and percentage of antibiotic resistance.
 
@@ -9,6 +9,6 @@ Meta-analysis of clinical outcomes of antibiotics for cholera treatment and perc
 ---
 
 
-[![pylint](https://github.com/kamangir/bluer-AMR/actions/workflows/pylint.yml/badge.svg)](https://github.com/kamangir/bluer-AMR/actions/workflows/pylint.yml) [![pytest](https://github.com/kamangir/bluer-AMR/actions/workflows/pytest.yml/badge.svg)](https://github.com/kamangir/bluer-AMR/actions/workflows/pytest.yml) [![bashtest](https://github.com/kamangir/bluer-AMR/actions/workflows/bashtest.yml/badge.svg)](https://github.com/kamangir/bluer-AMR/actions/workflows/bashtest.yml) [![PyPI version](https://img.shields.io/pypi/v/bluer-AMR.svg)](https://pypi.org/project/bluer-AMR/) [![PyPI - Downloads](https://img.shields.io/pypi/dd/bluer-AMR)](https://pypistats.org/packages/bluer-AMR)
+[![pylint](https://github.com/kamangir/bluer-amr/actions/workflows/pylint.yml/badge.svg)](https://github.com/kamangir/bluer-amr/actions/workflows/pylint.yml) [![pytest](https://github.com/kamangir/bluer-amr/actions/workflows/pytest.yml/badge.svg)](https://github.com/kamangir/bluer-amr/actions/workflows/pytest.yml) [![bashtest](https://github.com/kamangir/bluer-amr/actions/workflows/bashtest.yml/badge.svg)](https://github.com/kamangir/bluer-amr/actions/workflows/bashtest.yml) [![PyPI version](https://img.shields.io/pypi/v/bluer-amr.svg)](https://pypi.org/project/bluer-amr/) [![PyPI - Downloads](https://img.shields.io/pypi/dd/bluer-amr)](https://pypistats.org/packages/bluer-amr)
 
-built by 🌀 [`bluer README`](https://github.com/kamangir/bluer-objects/tree/main/bluer_objects/README), based on 🔬 [`bluer_AMR-5.4.1`](https://github.com/kamangir/bluer-AMR).
+built by 🌀 [`bluer README`](https://github.com/kamangir/bluer-objects/tree/main/bluer_objects/README), based on 🔬 [`bluer_amr-6.4.1`](https://github.com/kamangir/bluer-amr).
