@@ -1,16 +1,16 @@
-NAME = "bluer_AMR"
+NAME = "bluer_amr"
 
 ICON = "🔬"
 
 DESCRIPTION = f"{ICON} meta-analysis of clinical outcomes of antibiotics for cholera treatment and percentage of antibiotic resistance."
 
-VERSION = "5.4.1"
+VERSION = "6.3.1"
 
-REPO_NAME = "bluer-AMR"
+REPO_NAME = "bluer-amr"
 
 MARQUEE = "https://github.com/kamangir/assets/raw/main/blue-plugin/marquee.png?raw=true"
 
-ALIAS = "@AMR"
+ALIAS = "@amr"
 
 
 def fullname() -> str:

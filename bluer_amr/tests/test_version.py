@@ -1,6 +1,5 @@
-from bluer_AMR import VERSION
+from bluer_amr import VERSION
 
 
 def test_version():
     assert VERSION
-

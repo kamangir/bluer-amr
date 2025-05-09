@@ -2,7 +2,7 @@ from typing import List
 
 from bluer_ai.host import signature as bluer_ai_signature
 
-from bluer_AMR import fullname
+from bluer_amr import fullname
 
 
 def signature() -> List[str]:

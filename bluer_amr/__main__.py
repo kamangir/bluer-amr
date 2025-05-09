@@ -1,7 +1,7 @@
 from blueness.argparse.generic import main
 
-from bluer_AMR import NAME, VERSION, DESCRIPTION, ICON, README
-from bluer_AMR.logger import logger
+from bluer_amr import NAME, VERSION, DESCRIPTION, ICON, README
+from bluer_amr.logger import logger
 
 main(
     ICON=ICON,
@@ -14,4 +14,3 @@ main(
     },
     logger=logger,
 )
-

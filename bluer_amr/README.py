@@ -2,7 +2,7 @@ import os
 
 from bluer_objects import file, README
 
-from bluer_AMR import NAME, VERSION, ICON, REPO_NAME
+from bluer_amr import NAME, VERSION, ICON, REPO_NAME
 
 
 items = README.Items(

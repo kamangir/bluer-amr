@@ -1,23 +1,23 @@
 #! /usr/bin/env bash
 
-function test_bluer_AMR_help() {
+function test_bluer_amr_help() {
     local options=$1
 
     local module
     for module in \
-        "@AMR" \
+        "@amr" \
         \
-        "@AMR pypi" \
-        "@AMR pypi browse" \
-        "@AMR pypi build" \
-        "@AMR pypi install" \
+        "@amr pypi" \
+        "@amr pypi browse" \
+        "@amr pypi build" \
+        "@amr pypi install" \
         \
-        "@AMR pytest" \
+        "@amr pytest" \
         \
-        "@AMR test" \
-        "@AMR test list" \
+        "@amr test" \
+        "@amr test list" \
         \
-        "bluer_AMR"; do
+        "bluer_amr"; do
         bluer_ai_eval ,$options \
             bluer_ai_help $module
         [[ $? -ne 0 ]] && return 1

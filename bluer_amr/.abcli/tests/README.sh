@@ -1,8 +1,8 @@
 #! /usr/bin/env bash
 
-function test_bluer_AMR_README() {
+function test_bluer_amr_README() {
     local options=$1
 
     bluer_ai_eval ,$options \
-        bluer_AMR build_README
+        bluer_amr build_README
 }
