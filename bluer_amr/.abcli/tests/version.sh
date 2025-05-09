@@ -1,8 +1,8 @@
 #! /usr/bin/env bash
 
-function test_bluer_AMR_version() {
+function test_bluer_amr_version() {
     local options=$1
 
     bluer_ai_eval ,$options \
-        "bluer_AMR version ${@:2}"
+        "bluer_amr version ${@:2}"
 }

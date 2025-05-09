@@ -1,6 +1,5 @@
-from bluer_AMR import fullname
+from bluer_amr import fullname
 
 
 def test_fullname():
     assert fullname()
-

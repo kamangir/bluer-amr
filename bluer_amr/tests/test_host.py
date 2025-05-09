@@ -1,6 +1,5 @@
-from bluer_AMR.host import signature
+from bluer_amr.host import signature
 
 
 def test_signature():
     assert signature()
-

@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-function test_bluer_AMR_help() {
+function test_bluer_amr_help() {
     local options=$1
 
     local module
@@ -17,7 +17,7 @@ function test_bluer_AMR_help() {
         "@AMR test" \
         "@AMR test list" \
         \
-        "bluer_AMR"; do
+        "bluer_amr"; do
         bluer_ai_eval ,$options \
             bluer_ai_help $module
         [[ $? -ne 0 ]] && return 1
