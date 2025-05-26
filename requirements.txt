@@ -1,1 +1,2 @@
 bluer_ai
+openpyxl
