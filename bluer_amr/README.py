@@ -11,7 +11,7 @@ items = README.Items(
             "name": "meta-analysis",
             "marquee": "https://github.com/kamangir/assets/raw/main/blue-plugin/marquee.png?raw=true",
             "description": "meta analysis of anti-biotics for cholera.",
-            "url": "./doc/meta-analysis.md",
+            "url": "./docs/meta-analysis.md",
         }
     ]
 )
